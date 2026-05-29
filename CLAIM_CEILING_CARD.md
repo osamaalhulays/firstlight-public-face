@@ -2,7 +2,7 @@
 
 ## What this package may claim
 
-- `Firstlight` exists as the cosmology-facing public face inside `Foundry Cosmology`
+- `Firstlight` exists as the cosmology-facing public face inside `Deep Origin Theory`
 - `Firstlight I` and `Firstlight II` may be presented as outward sequence labels inside a future-facing identity snapshot
 - the package may describe the lawful appearance of cosmological law as a framed horizon
 - the package may carry elegant outward language if it stays timestamped and non-triumphal

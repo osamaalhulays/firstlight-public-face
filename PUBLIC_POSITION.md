@@ -2,7 +2,7 @@
 
 ## External reading
 
-**Firstlight** is the cosmology-facing lineage inside `Foundry Cosmology`: the outward horizon where the program's deeper structure comes into view as cosmological law.
+**Firstlight** is the cosmology-facing lineage inside `Deep Origin Theory`: the outward horizon where the program's deeper structure comes into view as cosmological law.
 
 ## Public face included here
 
