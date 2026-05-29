@@ -1,6 +1,6 @@
 # Firstlight / Public Face
 
-This repository contains the public-facing Firstlight package inside **Deep Origin Theory**.
+This repository contains the **English public-facing Firstlight bundle** inside **Deep Origin Theory**.
 
 ## Public Position
 
@@ -22,4 +22,8 @@ This repository does **not** present:
 - unbounded observational authority
 - unfinished internal extensions
 
-It presents the public face that can be read externally without importing active internal development material.
+It presents the English public face that can be read externally without importing active internal development material.
+
+The matching Arabic release mirror is carried in the umbrella public wave:
+
+- <https://github.com/osamaalhulays/deep-origin-theory/tree/main/ARABIC/FIRSTLIGHT_PUBLIC_FACE_20260528>
