@@ -4,7 +4,7 @@ This repository contains the public-facing Firstlight package inside **Deep Orig
 
 ## Public Position
 
-Firstlight is presented here as the cosmology-facing public line of the theory, bounded to outward reading and separated from unfinished authority tails.
+Firstlight is presented here as the cosmology-facing public line of the theory, bounded to outward reading and separated from unfinished internal extensions.
 
 ## Included
 
@@ -20,6 +20,6 @@ This repository does **not** present:
 
 - present-tense completion claims
 - unbounded observational authority
-- unfinished live workshop extensions
+- unfinished internal extensions
 
-It presents the public face that can be read externally without importing the active internal tail.
+It presents the public face that can be read externally without importing active internal development material.

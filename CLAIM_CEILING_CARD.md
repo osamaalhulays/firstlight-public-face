@@ -14,7 +14,7 @@
 - transport legitimacy already closed
 - actual governed-container opening already achieved
 - `Firstlight III` already earned as a closed scientific result
-- any implication that unfinished authority tails are implicitly complete
+- any implication that unfinished internal extensions are implicitly complete
 
 ## Severity rule
 
@@ -22,4 +22,4 @@ Any bright language here must stay paired with:
 
 - an explicit timestamp
 - an explicit non-claim
-- or a clear tail exclusion
+- or a clear boundary statement
